@@ -1,4 +1,6 @@
-var precio_base:contentReference[oaicite:8]{index=8} = 0.1;
+var precio_base = 2000;
+
+var edad_18 = 0.1;
 var edad_25 = 0.2;
 var edad_50 = 0.3;
 
