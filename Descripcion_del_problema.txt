@@ -1,0 +1,5 @@
+El presente programa tiene como objetivo calcular la cotización de un seguro partiendo de un precio base. A este precio se le aplican recargos dependiendo de la edad del asegurado, si está casado y la edad del cónyuge, y si tiene hijos.
+
+Primero se solicitan los datos personales del usuario. Si la persona es menor de edad, no se puede realizar la cotización. Si cumple con la edad mínima, el programa calcula los recargos correspondientes según las condiciones ingresadas.
+
+Al final, se muestra el total de recargos y el precio final del seguro.

@@ -1,0 +1,18 @@
+Iniciar el programa
+Establecer el precio base del seguro y los porcentajes de recargo
+Solicitar nombre del usuario
+Solicitar edad del usuario
+Convertir la edad a número
+Verificar si el usuario es mayor o igual a 18 años de edad
+Si es menor de edad, mostrar mensaje y finalizar el programa
+Si es mayor de edad, preguntar si es casado
+Si es casado, solicitar la edad del cónyuge y convertirla a número
+Preguntar si tiene hijos
+Si la respuesta es afirmativa, solicitar la cantidad y convertirla a número
+Calcular el recargo según la edad del asegurado
+Si es casado, calcular el recargo según la edad del cónyuge
+Si tiene hijos, calcular el recargo correspondiente por cada hijo
+Sumar todos los recargos al precio base
+Mostrar el total de recargos
+Mostrar el precio final del seguro
+Finalizar el programa
